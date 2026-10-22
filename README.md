@@ -89,6 +89,7 @@ Configure Storage Permissions:
 Ensure the storage/ directory and its subdirectories (originals, processed, rate_limits, logs) are writable by the Apache process.
 
 Run Application:
+<img width="1916" height="1137" alt="image" src="https://github.com/user-attachments/assets/9d983fe5-74c8-431e-9d16-8df38426ea75" />
 
 Do NOT start MySQL (it is not needed!).
 
