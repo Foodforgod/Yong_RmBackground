@@ -1,0 +1,11 @@
+Order deny,allow
+Deny from all
+<Files "*.png">
+    Allow from all
+</Files>
+<Files "*.jpg">
+    Allow from all
+</Files>
+<Files "*.jpeg">
+    Allow from all
+</Files>
